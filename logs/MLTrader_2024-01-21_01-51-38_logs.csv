@@ -14276,3 +14276,58 @@
 2024-01-21 01:57:41,138: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-21 01:57:41
 2024-01-21 01:57:41,138: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
 2024-01-21 01:57:41,139: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,710: root: INFO: MLTrader : Trading iteration ended at 2024-01-21 01:57:41
+2024-01-21 01:57:41,710: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,712: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,713: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,713: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,713: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,714: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,715: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,715: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,716: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,716: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,716: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,717: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,718: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,718: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,720: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,720: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,720: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,721: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,722: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,722: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,723: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,724: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,724: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,724: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,724: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,725: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-01-21 01:57:41,725: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,726: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,727: root: INFO: MLTrader : Sleeping for 86400 seconds
+2024-01-21 01:57:41,728: root: INFO: Current backtesting datetime 2022-07-07 15:00:00-05:00
+2024-01-21 01:57:41,728: root: INFO: Current backtesting datetime 2022-07-08 08:30:00-05:00
+2024-01-21 01:57:41,730: root: INFO: MLTrader : Executing the on_trading_iteration lifecycle method at 2024-01-21 01:57:41
+2024-01-21 01:57:41,730: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:41,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-01-21 01:57:42,495: root: WARNING: Strategy MLTrader: sell all
+2024-01-21 01:57:42,496: root: INFO: limit order of | 2550.0 SPY buy | at price $315.90400390625 with status unprocessed was canceled.
+2024-01-21 01:57:42,522: root: INFO: limit order of | 683.0 SPY buy | at price $349.52800292968755 with status unprocessed was canceled.
+2024-01-21 01:57:42,526: root: INFO: stop order of | 724.0 SPY buy | at price $473.71800384521487 with status unprocessed was canceled.
+2024-01-21 01:57:42,529: root: INFO: stop order of | 217.0 SPY buy | at price $467.83799743652344 with status unprocessed was canceled.
+2024-01-21 01:57:42,532: root: INFO: limit order of | 217.0 SPY buy | at price $356.447998046875 with status unprocessed was canceled.
+2024-01-21 01:57:42,536: root: INFO: stop order of | 1585.0 SPY buy | at price $444.7694961547852 with status unprocessed was canceled.
+2024-01-21 01:57:42,539: root: INFO: limit order of | 1585.0 SPY buy | at price $338.87199707031255 with status unprocessed was canceled.
+2024-01-21 01:57:42,542: root: INFO: limit order of | 724.0 SPY buy | at price $360.9280029296875 with status unprocessed was canceled.
+2024-01-21 01:57:42,547: root: INFO: stop order of | 2550.0 SPY buy | at price $414.62400512695314 with status unprocessed was canceled.
+2024-01-21 01:57:42,550: root: INFO: stop order of | 683.0 SPY buy | at price $458.7555038452149 with status unprocessed was canceled.
+2024-01-21 01:57:42,553: root: INFO: stop order of | 1060.0 SPY buy | at price $443.404508972168 with status unprocessed was canceled.
