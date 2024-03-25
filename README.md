@@ -4,6 +4,8 @@ Here's a README file for your MLTrader strategy and its backtesting:
 
 # MLTrader Strategy
 
+<img width="1076" alt="image" src="https://github.com/punyamodi/Trading_Bot/assets/68418104/5671134e-2ac8-42ce-9d6c-0408ce20590e">
+
 This repository contains Python code for a trading strategy called MLTrader implemented using the Lumibot framework. The MLTrader strategy utilizes machine learning sentiment analysis to make trading decisions.
 
 ## Overview
